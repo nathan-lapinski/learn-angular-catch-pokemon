@@ -1,10 +1,10 @@
-import { APPFinalPage } from './app.po';
+import { APPStartPage } from './app.po';
 
-describe('app-final App', () => {
-  let page: APPFinalPage;
+describe('app-start App', () => {
+  let page: APPStartPage;
 
   beforeEach(() => {
-    page = new APPFinalPage();
+    page = new APPStartPage();
   });
 
   it('should display welcome message', () => {
