@@ -14,9 +14,11 @@ export class PokemonHomeComponent implements OnInit {
   constructor(private pokemonService: PokemonDataService) { }
 
   ngOnInit() {
-    this.pokemonService.getPokemon().subscribe((pokemonData) => {
+  }
+
+  getPokemonById(id: number) {
+    this.pokemonService.getPokemon(id).subscribe((pokemonData) => {
       this.data.push(pokemonData);
     });
   }
-
 }

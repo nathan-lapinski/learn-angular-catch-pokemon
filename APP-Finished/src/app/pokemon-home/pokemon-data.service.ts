@@ -5,11 +5,12 @@ import { Observable } from 'rxjs/Observable';
 @Injectable()
 export class PokemonDataService {
 
-       url = 'https://pokeapi.co/api/v2/pokemon/150';
+       url = 'https://pokeapi.co/api/v2/pokemon/';
 
        constructor(private http: HttpClient) {}
 
-       getPokemon(): Observable<any> {
-           return this.http.get(this.url);
+       getPokemon(id: number): Observable<any> {
+           const fetchUrl = this.url + id;
+           return this.http.get(fetchUrl);
        }
 }

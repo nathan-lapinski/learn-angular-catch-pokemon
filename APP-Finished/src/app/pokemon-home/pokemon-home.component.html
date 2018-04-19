@@ -1,3 +1,4 @@
-<div *ngFor="let pokemon of data"> 
+<input type="text" placeholder="catch a pokemon" (keyup.enter)="getPokemonById($event.target.value)">
+<div *ngFor="let pokemon of data">
   <pokemon [pokemonData]="pokemon"></pokemon>
 </div>
