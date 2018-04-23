@@ -7,7 +7,7 @@ APP-Final contains the finished application.
 
 # Getting Started
 
-###If you are attending the Angular talk at Codechrysalis, please download and install these before the workshop.
+### If you are attending the Angular talk at Codechrysalis, please download and install these before the workshop.
 
 To run these projects, you will need NodeJS, npm, and the Angular CLI
 
