@@ -21,5 +21,5 @@ https://cli.angular.io/
 install the CLI using npm
 `npm install -g @angular/cli`
 
-cd into the APP-Start directory, and follow the instructions there to get used to 
+cd into the APP-Start directory of this repo, and follow the instructions there to get used to 
 using the CLI. You can run `ng serve` to run a local version of the application!
