@@ -1,6 +1,8 @@
 # learn-angular-catch-pokemon
 Welcome! This is a simple Angular application which uses the Pokemon api.
 
+https://pokeapi.co/
+
 APP-Start contains the starter files for the application.
 
 APP-Final contains the finished application.
