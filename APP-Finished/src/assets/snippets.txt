@@ -1,3 +1,5 @@
+baseUrl = 'https://pokeapi.co/api/v2/pokemon/';
+
 data = [  
  { 
     "id": 5,
