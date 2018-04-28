@@ -11,6 +11,9 @@ APP-Final contains the finished application.
 
 ### If you are attending the Angular talk at Codechrysalis, please download and install these before the workshop.
 
+### Or, you can use this Stackblitz link instead. Please be sure to hit the fork button on stackblitz before editing, if you choose this route
+https://stackblitz.com/github/nathan-lapinski/learn-angular-catch-pokemon/tree/master/APP-Start
+
 To run these projects, you will need NodeJS, npm, and the Angular CLI
 
 ## NodeJS (installs npm as well)
