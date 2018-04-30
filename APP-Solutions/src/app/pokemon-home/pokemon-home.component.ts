@@ -21,4 +21,8 @@ export class PokemonHomeComponent implements OnInit {
       this.data.push(pokemonData);
     });
   }
+
+  removePokemonByIndex(index) {
+    this.data.splice(index,1);
+  }
 }
