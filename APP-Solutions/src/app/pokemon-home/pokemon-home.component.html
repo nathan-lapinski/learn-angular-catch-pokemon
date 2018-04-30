@@ -3,6 +3,6 @@
     <input class="col" type="text" placeholder="catch a pokemon" (keyup.enter)="getPokemonById($event.target.value)">
   </div>
   <div *ngFor="let pokemon of data; let i = index">
-    <pokemon [pokemonData]="pokemon" (removePokemonEvent)="removePokemonByIndex(i)"></pokemon>
+    <pokemon [pokemonData]="pokemon" (removePokemonEvent)="removePokemonByIndex(i)" (pokemonNicknameEvent)="addNickname($event, i)"></pokemon>
   </div>
 </div>

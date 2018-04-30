@@ -25,4 +25,8 @@ export class PokemonHomeComponent implements OnInit {
   removePokemonByIndex(index) {
     this.data.splice(index,1);
   }
+
+  addNickname(nickname: string, index: number) {
+    this.data[index].nickname = nickname;
+  }
 }
