@@ -1,0 +1,8 @@
+<div class="container">
+  <div class="row">
+    <input class="col" type="text" placeholder="catch a pokemon" (keyup.enter)="getPokemonById($event.target.value)">
+  </div>
+  <div *ngFor="let pokemon of data">
+    <pokemon [pokemonData]="pokemon"></pokemon>
+  </div>
+</div>
