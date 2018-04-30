@@ -1,4 +1,9 @@
-# APPStart
+# APPFinished
+
+This folder contains a finished version of the Pokemon Applicatoin. If you follow all of the steps during the presentation, you should have feature parity
+with the application in this folder.
+
+See APP-Solutions for solutions to the exercises.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.3.
 

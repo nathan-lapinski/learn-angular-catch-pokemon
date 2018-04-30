@@ -1,4 +1,7 @@
-# APPStart
+# APPSolutions
+This folder contains the solutions to the bonus exercises for the Angular Pokemon application.
+
+See the accompanying solutions files in this directory for a detailed solution to each problem.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.3.
 

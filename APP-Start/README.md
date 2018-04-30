@@ -1,5 +1,8 @@
 # APPStart
 
+This folder contains the starter files for the Angular Pokemon application. Start here if you want to code along during
+the presentation.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.3.
 
 ## Development server
