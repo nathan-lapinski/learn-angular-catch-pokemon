@@ -56,3 +56,16 @@ data = [
    }
 }
 ];
+
+
+// Copy/Paste for PokemonComponent
+import { Component } from "@angular/core";
+
+@Component({
+  selector: 'pokemon',
+  template: `
+  `
+})
+export class PokemonComponent {
+
+}
