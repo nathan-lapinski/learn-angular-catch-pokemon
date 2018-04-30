@@ -5,7 +5,9 @@ https://pokeapi.co/
 
 APP-Start contains the starter files for the application.
 
-APP-Final contains the finished application.
+APP-Final contains the finished application, plus descriptions of the practice problems.
+
+APP-Solutions contains the finished application, plus solutions to the practice problems.
 
 # Getting Started
 
