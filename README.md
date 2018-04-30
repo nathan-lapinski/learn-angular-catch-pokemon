@@ -11,11 +11,13 @@ APP-Solutions contains the finished application, plus solutions to the practice 
 
 # Getting Started
 
-### If you are attending the Angular talk at Codechrysalis, please download and install these before the workshop.
+### If you are attending the Angular talk at Codechrysalis, there are two ways to follow along:
 
-### Or, you can use this Stackblitz link instead. Please be sure to hit the fork button on stackblitz before editing, if you choose this route
+### You can use this Stackblitz link instead of downloading this repo. Please be sure to hit the fork button on stackblitz before editing, if you choose this route
 https://stackblitz.com/github/nathan-lapinski/learn-angular-catch-pokemon/tree/master/APP-Start
 
+
+### Or, you can clone this repo. If you do so, be sure to read on and install the following dependencies.
 To run these projects, you will need NodeJS, npm, and the Angular CLI
 
 ## NodeJS (installs npm as well)
