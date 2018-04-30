@@ -3,7 +3,9 @@
 This folder contains a finished version of the Pokemon Applicatoin. If you follow all of the steps during the presentation, you should have feature parity
 with the application in this folder.
 
-See APP-Solutions for solutions to the exercises.
+This folder also contains descriptions of the practice problems: (add_delete_button_description.md, etc).
+
+See APP-Solutions for solutions to the practice problems.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.3.
 
