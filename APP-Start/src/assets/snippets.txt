@@ -69,3 +69,8 @@ import { Component } from "@angular/core";
 export class PokemonComponent {
 
 }
+
+
+
+// Copy/Paste for PokemonHomeComponent.html
+<input class="col" type="text" placeholder="catch a pokemon" (keyup.enter)="getPokemonById($event.target.value)">
