@@ -1,4 +1,5 @@
-# APPSolutions
+# APP Solution
+s
 This folder contains the solutions to the bonus exercises for the Angular Pokemon application.
 
 See the accompanying solutions files in this directory for a detailed solution to each problem.
