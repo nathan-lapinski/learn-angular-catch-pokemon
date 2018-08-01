@@ -1,4 +1,8 @@
 # learn-angular-catch-pokemon
+
+### If you missed the workshop, here is a link to the stream:
+https://www.youtube.com/watch?v=zgF2BrEmtd4
+
 Welcome! This is a simple Angular application which uses the Pokemon api.
 
 https://pokeapi.co/
@@ -10,9 +14,6 @@ APP-Final contains the finished application, plus descriptions of the practice p
 APP-Solutions contains the finished application, plus solutions to the practice problems.
 
 # Getting Started
-
-### If you missed the workshop, here is a linke to the stream:
-https://www.youtube.com/watch?v=zgF2BrEmtd4
 
 ### If you are attending the Angular talk at Codechrysalis, there are two ways to follow along:
 
