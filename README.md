@@ -11,6 +11,9 @@ APP-Solutions contains the finished application, plus solutions to the practice 
 
 # Getting Started
 
+### If you missed the workshop, here is a linke to the stream:
+https://www.youtube.com/watch?v=zgF2BrEmtd4
+
 ### If you are attending the Angular talk at Codechrysalis, there are two ways to follow along:
 
 ### You can use this Stackblitz link instead of downloading this repo. Please be sure to hit the fork button on stackblitz before editing, if you choose this route
